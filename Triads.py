@@ -1,0 +1,2 @@
+def triads(a,b):
+    
